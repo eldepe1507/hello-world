@@ -15,3 +15,5 @@
 # After modifying what you want in a script, i.e. this one here, save modifications
 
 # When you're done, commit your changes (Git symbol above, then commit or ctrl+alt+m)
+
+# make sure the correct branch (here proposed-fixes) appears next to the History button and write a commit message
