@@ -17,3 +17,13 @@
 # When you're done, commit your changes (Git symbol above, then commit or ctrl+alt+m)
 
 # make sure the correct branch (here proposed-fixes) appears next to the History button and write a commit message
+
+# Terminal: Then go to the Shell, type 'git push origin proposed-fixes'. remember, 'proposed-fixes' is the name of your branch
+
+# Now you  need to go to GitHub, view the fork (press 'compare, review, create a pull request')
+
+# make sure correct branch is selected in the 'compare' drop-down menu in the top right and click on the green button 'Create pull request'
+
+# Leave a message with explanatios of what you did (may not be necessary if it's your own) then click 'Create Pull Request'.
+
+# Next step would again be on GitHub when I have to accept my own pull request
