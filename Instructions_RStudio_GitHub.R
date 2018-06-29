@@ -18,7 +18,10 @@
 
 # make sure the correct branch (here proposed-fixes) appears next to the History button and write a commit message
 
+##### this one isn't working yet #####
+
 # Terminal: Then go to the Shell, type 'git push origin proposed-fixes'. remember, 'proposed-fixes' is the name of your branch
+
 
 # Now you  need to go to GitHub, view the fork (press 'compare, review, create a pull request')
 
